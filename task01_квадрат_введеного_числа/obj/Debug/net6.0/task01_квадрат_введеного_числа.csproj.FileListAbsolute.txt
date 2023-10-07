@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\bin\Debug\net6.0\task01_квадрат_введеного_числа.exe
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\bin\Debug\net6.0\task01_квадрат_введеного_числа.deps.json
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\bin\Debug\net6.0\task01_квадрат_введеного_числа.runtimeconfig.json
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\bin\Debug\net6.0\task01_квадрат_введеного_числа.dll
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\bin\Debug\net6.0\task01_квадрат_введеного_числа.pdb
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.dll
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\refint\task01_квадрат_введеного_числа.dll
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.pdb
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\task01_квадрат_введеного_числа.genruntimeconfig.cache
+C:\Users\user\Desktop\C#_семинар\task01_квадрат_введеного_числа\obj\Debug\net6.0\ref\task01_квадрат_введеного_числа.dll
