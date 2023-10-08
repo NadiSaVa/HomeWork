@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\bin\Debug\net6.0\task04_Максимальное_из_трех.exe
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\bin\Debug\net6.0\task04_Максимальное_из_трех.deps.json
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\bin\Debug\net6.0\task04_Максимальное_из_трех.runtimeconfig.json
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\bin\Debug\net6.0\task04_Максимальное_из_трех.dll
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\bin\Debug\net6.0\task04_Максимальное_из_трех.pdb
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.dll
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\refint\task04_Максимальное_из_трех.dll
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.pdb
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\task04_Максимальное_из_трех.genruntimeconfig.cache
+C:\Users\user\Desktop\C#_семинар\task04_Максимальное_из_трех\obj\Debug\net6.0\ref\task04_Максимальное_из_трех.dll
