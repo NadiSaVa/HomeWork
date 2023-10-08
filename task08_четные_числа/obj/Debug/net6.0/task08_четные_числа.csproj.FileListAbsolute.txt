@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\bin\Debug\net6.0\task08_четные_числа.exe
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\bin\Debug\net6.0\task08_четные_числа.deps.json
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\bin\Debug\net6.0\task08_четные_числа.runtimeconfig.json
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\bin\Debug\net6.0\task08_четные_числа.dll
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\bin\Debug\net6.0\task08_четные_числа.pdb
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.dll
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\refint\task08_четные_числа.dll
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.pdb
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\task08_четные_числа.genruntimeconfig.cache
+C:\Users\user\Desktop\C#_семинар\task08_четные_числа\obj\Debug\net6.0\ref\task08_четные_числа.dll
