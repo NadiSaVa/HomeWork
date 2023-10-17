@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\C#_семинар\\task005\\task005.csproj": {}
+    "C:\\Users\\user\\Desktop\\C#_семинар\\task05_ЧислоN\\task005.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\C#_семинар\\task005\\task005.csproj": {
+    "C:\\Users\\user\\Desktop\\C#_семинар\\task05_ЧислоN\\task005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\C#_семинар\\task005\\task005.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\C#_семинар\\task05_ЧислоN\\task005.csproj",
         "projectName": "task005",
-        "projectPath": "C:\\Users\\user\\Desktop\\C#_семинар\\task005\\task005.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\C#_семинар\\task05_ЧислоN\\task005.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\C#_семинар\\task005\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\C#_семинар\\task05_ЧислоN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
