@@ -5,6 +5,8 @@
 */
 
 
+/* Решение на семинаре
+
 string f(int x, int y)
 {
     if (x > 0 && y > 0)
@@ -21,3 +23,33 @@ int x = Convert.ToInt32(Console.ReadLine());
 System.Console.Write("Введите число: ");
 int y = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(f(x, y));
+
+*/
+
+// Решение с Валерией
+
+System.Console.Write("Введите координаты точки x: ");
+int x = Convert.ToInt32(Console.ReadLine());
+System.Console.Write("Введите координаты точки y: ");
+int y = Convert.ToInt32(Console.ReadLine());
+
+if (x > 0 && y > 0)
+{
+    System.Console.WriteLine("I");
+}
+else if (x < 0 && y > 0)
+{
+    System.Console.WriteLine("II");
+}
+else if (x < 0 && y < 0)
+{
+    System.Console.WriteLine("III");
+}
+else if (x > 0 && y < 0)
+{
+    System.Console.WriteLine("IV");
+}
+else if (x == 0 || y == 0)
+{
+    System.Console.WriteLine("Точка находится на оси координат");
+}
