@@ -15,6 +15,7 @@ int[] GetArray(int start, int end, int size)
 }
 void PrintArray(int[] arr)
 {
+    Console.ForegroundColor=ConsoleColor.Red;
     System.Console.Write("[");
     for (int i = 0; i < arr.Length; i++)
     {
@@ -23,6 +24,7 @@ void PrintArray(int[] arr)
         System.Console.Write(", ");  
     }
     System.Console.Write("]");
+    Console.ForegroundColor=ConsoleColor.White;
 }
 
 System.Console.WriteLine("Введи диапозон массива от: ");
