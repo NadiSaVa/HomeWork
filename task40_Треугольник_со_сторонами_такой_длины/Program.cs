@@ -25,4 +25,31 @@ int userB = TakeEntNum("Введите число B: ");
 int userC = TakeEntNum("Введите число C: ");
 System.Console.WriteLine(Triagle(userA, userB, userC));
 
+/* Второй вариант
 
+Console.WriteLine("Введите длины трех сторон треугольника:");
+Console.Write("Сторона A: ");
+double sideA = double.Parse(Console.ReadLine());
+
+Console.Write("Сторона B: ");
+double sideB = double.Parse(Console.ReadLine());
+
+Console.Write("Сторона C: ");
+double sideC = double.Parse(Console.ReadLine());
+
+bool isTriangle = IsTriangle(sideA, sideB, sideC);
+{
+if (isTriangle)
+{
+Console.WriteLine("Треугольник с такими сторонами существует.");
+}
+else
+{
+Console.WriteLine("Треугольник с такими сторонами не существует.");
+}
+}
+bool IsTriangle(double a, double b, double c)
+{
+return a + b > c && a + c > b && b + c > a;
+}
+*/
