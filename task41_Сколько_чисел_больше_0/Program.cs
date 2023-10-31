@@ -52,3 +52,19 @@ int CountPositivDigits(int[] array)
 int count = CountPositivDigits(userArray);
 System.Console.WriteLine();
 System.Console.WriteLine($"Positive Digits > 0 = {count}");
+
+
+/* Второй вариант
+System.Console.Write("Укажите количество чисел: ");
+int value = int.Parse(System.Console.ReadLine());
+
+int count = 0;
+
+for(int i = 0; i < value; i++)
+{
+    System.Console.Write("Введите число: ");
+    if(int.Parse(System.Console.ReadLine()) > 0 ) count++;
+}
+
+System.Console.WriteLine("Чисел со значением больше нуля было введено: " + count);
+*/
