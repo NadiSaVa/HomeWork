@@ -21,9 +21,9 @@ int TakeEnteredNumber(string message)
 int[,] GetRandom2DArray(int start, int end, int row, int column)
 {
     int[,] array = new int[row, column];
-    for (int i = 0; i < row; i++)
+    for (int i = 0; i < row; i++)              // строка
     {
-        for (int j = 0; j < column; j++)
+        for (int j = 0; j < column; j++)       // столбец
         {
             array[i, j] = new Random().Next(start, end+1);
         }
@@ -34,11 +34,18 @@ int[,] GetRandom2DArray(int start, int end, int row, int column)
 
 void Print2DArray(int[,] array)
 {
+    System.Console.Write("[ ] \t");
+    for (int j = 0; j < array.GetLength(1); j++)
+    {
+        System.Console.Write($"[{j}] \t");
+    }
+    System.Console.WriteLine();
     for (int i = 0; i < array.GetLength(0); i++)
     {
+        System.Console.Write($"[{i}] \t");
         for (int j = 0; j < array.GetLength(1); j++)
         {
-        System.Console.Write(array[i, j] + "\t");
+        System.Console.Write(" " + array[i, j] + "\t");
         }
         System.Console.WriteLine();
     }
@@ -50,5 +57,5 @@ int userArrayColumn = TakeEnteredNumber("Введите количестов с�
 int userArrayStart = TakeEnteredNumber("Введите начало диапозона:");
 int userArrayEnd = TakeEnteredNumber("Введите конец диапозона:");
 int[,] user2DArray = GetRandom2DArray(userArrayStart, userArrayEnd, userArrayRow, userArrayColumn);
-
+System.Console.WriteLine();
 Print2DArray(user2DArray);
